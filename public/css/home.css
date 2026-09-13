@@ -14,6 +14,11 @@ justify-content: space-between;
 align-items: center;}
 
 
+.container .category_top div {
+    display: flex;
+    flex-direction: row;
+}
+
 .container .category_top span {
 font-family: "Jost";
 font-style: normal;
@@ -24,6 +29,7 @@ text-transform: capitalize;
 color: #041e42;}
 
 .container .category_top a {
+margin-left: 30px;
 font-family: "Jost";
 font-style: normal;
 font-weight: 500;
@@ -52,6 +58,7 @@ border-bottom: 2px solid #041e42;}
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-around;
 }
 
 .pagination_main img {
@@ -996,4 +1003,29 @@ color: #626974;}
     position: absolute;
     right: 30px;
     bottom: 15px;
+}
+
+
+.home_page .tv_frame {
+
+position: relative;
+
+margin-top: 90px;
+
+width: 100%;
+
+height: auto;
+
+display: flex;
+
+flex-direction: row;
+
+justify-content: center;
+
+}
+
+.tv_frame.container {
+
+flex-direction: column;
+
 }
