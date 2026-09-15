@@ -1070,6 +1070,12 @@ justify-content: space-between;
 
 }
 
+.container .next_prev_box img {
+    position: absolute;
+    top: 47%;
+    cursor: pointer;
+}
+
 .tv_product_wrapper .tv_product_boxes {
 
 width: 1300px;
