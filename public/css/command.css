@@ -6,8 +6,8 @@ a {
 
 p { margin:0;}
 
-.container {
-    padding: 20px 0 14px;
+.container {/*
+    padding: 20px 0 14px;*/
     position: relative;
     width: 1320px;
     height: auto;
