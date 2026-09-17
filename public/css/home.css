@@ -1,5 +1,5 @@
-.home_page {
-    padding-bottom: 60px;
+.home_page {/*
+    padding-bottom: 60px;*/
     display: flex;
     flex-direction: column;
 }
