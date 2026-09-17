@@ -23,7 +23,7 @@ align-items: center;}
 }
 
 .container .category_top span {
-font-family: "Jost";
+font-family: var(--font);
 font-style: normal;
 font-weight: 500;
 font-size: 28px;
@@ -33,7 +33,7 @@ color: #041e42;}
 
 .container .category_top a {
 margin-left: 30px;
-font-family: "Jost";
+font-family: var(--font);
 font-style: normal;
 font-weight: 500;
 font-size: 15px;
@@ -179,7 +179,7 @@ box-shadow: 0px 5px 20px rgba(0, 83, 246, 0.1);
 
 border-radius: 6px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -208,7 +208,7 @@ color: #ffffff;
 
 
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -228,7 +228,7 @@ margin-top: 7px;
 
 height: 56px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -262,7 +262,7 @@ margin-right: 5px;
 
 margin-left: 10px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -287,7 +287,7 @@ align-items: center;}
 
 .container  .price_box strong {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -305,7 +305,7 @@ color: #041e42;
 
 margin-left: 10px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -367,7 +367,7 @@ background:#f5c34b;
 
 border-radius: 6px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -383,7 +383,7 @@ color: #841e42;}
     margin-top: 10px;/*
     width: normal;*/
     width: 428px;
-    font-family: "Jost";
+    font-family: var(--font);
     font-style: normal;
     font-weight: 400px;
     font-size: 60px;
@@ -396,7 +396,7 @@ color: #841e42;}
 
 margin-top: 10px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -426,7 +426,7 @@ background: #FFFFFF;
 
 border-radius: 6px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -483,7 +483,7 @@ justify-content: center;}
 
 .header_frame .box_left span{
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -499,7 +499,7 @@ color: rgb(72, 72, 230);}
 
 margin: 10px 0;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -517,7 +517,7 @@ color: #041e42; }
 
 
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -592,7 +592,7 @@ flex-direction: column;
 
 
 
-font-family: "Jost"; 
+font-family: var(--font); 
 font-style: normal; 
 font-weight: 500; 
 font-size: 16px; 
@@ -601,7 +601,7 @@ line-height: 28px;
 color: #041e42;}
 
 .service_frame .service_content p {
-font-family: "Jost"; 
+font-family: var(--font);
 font-style: normal; 
 font-weight: 400; 
 font-size: 15px; 
@@ -633,7 +633,7 @@ flex-direction: column;}
 
 
 .shop_category_frame .category_top a {
-font-family: "Jost";
+font-family: var(--font);
 font-style: normal;
 font-weight: 500;
 font-size: 15px;
@@ -671,7 +671,7 @@ border-radius: 150px;}
 
 margin-top: 15px;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -758,7 +758,7 @@ justify-content: center;
 
 background-color: #e5edff;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -844,7 +844,7 @@ justify-content:flex-end ;
 
 .spec_product_frame .big_product_content span {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -862,7 +862,7 @@ color: #041e42;
 
 margin: 7px 0;
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -884,7 +884,7 @@ color: #041e42;}
 
 .spec_product_frame .big_product_content a {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -969,7 +969,7 @@ flex-direction: column;
 
 .spec_product_frame .small_product_content strong {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -985,7 +985,7 @@ color: #041e42;}
 
 .spec_product_frame .small_product_content span{
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -1126,7 +1126,7 @@ background-color: #0053f6;
 
 .event_content_box .event_title{
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -1161,7 +1161,7 @@ flex-direction: column;
 
 .timer_box strong {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -1177,7 +1177,7 @@ color: #ffffff;
 
 .timer_box span {
 
-font-family: "Jost";
+font-family: var(--font);
 
 font-style: normal;
 
@@ -1210,7 +1210,7 @@ background:#ffffff;
 border: 1px solid #ffffff;
 
 border-radius: 6px;
-font-family: "Jost";
+font-family: var(--font);
 font-style: normal;
 font-weight: 500;
 font-size: 15px;

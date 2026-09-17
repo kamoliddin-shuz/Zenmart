@@ -1,3 +1,9 @@
+:root{
+    --font: "Jost";
+}
+
+
+
 html,body {margin: 0; padding: 0;}
 
 a {
@@ -79,7 +85,7 @@ color: rgb(4, 30, 66);
 
 
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 15px;
 
@@ -104,7 +110,7 @@ outline: none;
 
 color: rgb(98, 105, 116);
 
-font-family: Jost;
+font-family: var(--font);
 
 
 
@@ -179,7 +185,7 @@ background: rgb(245, 195, 75);}
 
 color: rgb(255, 255, 255);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 16px;
 
@@ -197,7 +203,7 @@ text-align: left;}
 
 color: rgb(255, 255, 255);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 16px;
 
@@ -240,7 +246,7 @@ background: rgb(245, 195, 75);
 
 color: rgb(11, 30, 64);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 8px;
 
@@ -289,7 +295,7 @@ margin-left: 10px;
 
 color:rgb(255, 255, 255);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 16px;
 
@@ -309,7 +315,7 @@ text-align: left;}
 
 .navbar_frame .navbar_route_menu a {
     margin-right: 10px;
-    font-family: Jost;
+   font-family: var(--font);
     font-size: 16px;
     font-weight: 400;
     color: white;
@@ -325,7 +331,7 @@ text-align: left;}
 .navbar_frame .sorting_menu span {
     margin-left: 10px;
     color: white;
-    font-family: Jost;
+    font-family: var(--font);
     font-size: 16px;
     font-weight: 400;
 }
@@ -350,7 +356,7 @@ text-align: left;}
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 18px;
 
@@ -396,7 +402,7 @@ flex-direction: column;}
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 15px;
 
@@ -410,7 +416,7 @@ margin-top: 10px;
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 15px;
 
@@ -431,7 +437,7 @@ margin-bottom: 20px;
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 14px;
 
@@ -472,7 +478,7 @@ margin-bottom: 25px;}
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 14px;
 
@@ -511,7 +517,7 @@ flex-direction: row;}
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 14px;
 
@@ -544,7 +550,7 @@ background: rgb(255, 255, 255);}
 
 color: rgb(98, 105, 116);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 14px;
 
@@ -558,7 +564,7 @@ outline: none;
 
 color: rgb(4, 30, 66);
 
-font-family: Jost;
+font-family: var(--font);
 
 font-size: 14px;
 
